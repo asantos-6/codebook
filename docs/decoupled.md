@@ -41,7 +41,7 @@ A code smell is an issue with the source code of a program that indicates there 
 - _Large functions_: big, unwieldy functions that do a little bit of everything
 - _High cyclomatic complexity_: lots of nested ifs and for loops
 - _Globals_: Using globals for things that don't strictly need to be global
-- _Embedded configuration_: paths and filenames are hardcoded in ways that the code is not portable to to another computer
+- _Embedded configuration_: paths and filenames are hardcoded in ways that the code is not portable to another computer
 
 ```{margin}
 *Cyclomatic complexity* is the number of linearly independent paths (e.g. branches of an if statement) in a function
