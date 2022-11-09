@@ -135,7 +135,7 @@ For pip:
 
 * pip is just a package manager
 * pip only installs Python packages
-* pip can install every package on PyPI in additional to local packages
+* pip can install every package on PyPI in addition to local packages
 
 `conda` tracks which packages are pip installed and will include a special section in `environment.yml` for pip packages. [However, installing pip packages may negatively affect conda's ability to install conda packages correctly after the first pip install](https://www.anaconda.com/blog/using-pip-in-a-conda-environment). Therefore, people generally recommend installing **big conda packages first**, then installing **small pip packages second**.
 ```
