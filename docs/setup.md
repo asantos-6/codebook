@@ -29,7 +29,7 @@ I will present most of the project setup in the terminal, but you can do many of
 
 ## Pick a name and create a folder for your project
 
-When you start a project, you will need to decide how to structure it. As an academic, a project will tend to naturally map to a paper. Therefore, **one project = one paper = one folder = one git repository** is a generally a good default structure.
+When you start a project, you will need to decide how to structure it. As an academic, a project will tend to naturally map to a paper. Therefore, **one project = one paper = one folder = one git repository** is generally a good default structure.
 
 ```{margin}
 You might want to create extra standalone projects for tools you re-use across different papers.
